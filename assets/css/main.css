@@ -127,7 +127,9 @@
 .pro-list .keyword{
     color:  #1a73e8;               /* 深蓝色 */
     font-weight: 700;
-    
+    background: transparent !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
 }
 
  .pub-stats{
